@@ -1,7 +1,7 @@
 {
-  "name": "@uniswap/uniswapx-sdk",
+  "name": "@phuphamdeltalabs/uniswapx-sdk",
   "author": "Uniswap",
-  "version": "1.4.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "dist/src/index.js",
   "typings": "dist/src/index.d.ts",
@@ -54,8 +54,11 @@
   "dependencies": {
     "@ethersproject/bytes": "^5.7.0",
     "@ethersproject/providers": "^5.7.0",
+    "@phuphamdeltalabs/sdkcore": "^5.0.0",
     "@uniswap/permit2-sdk": "^1.2.0",
-    "@uniswap/sdk-core": "^4.0.3",
     "ethers": "^5.7.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
