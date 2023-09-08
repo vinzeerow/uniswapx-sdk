@@ -2270,9 +2270,9 @@
   resolved "https://registry.yarnpkg.com/@ungap/promise-all-settled/-/promise-all-settled-1.1.2.tgz#aa58042711d6e3275dd37dc597e5d31e8c290a44"
   integrity sha512-sL/cEvJWAnClXw0wHk85/2L0G6Sj8UB0Ctc1TEMbKSsmpRosqhwj9gWgFRZSrBr2f9tiXISwNhCPmlfqUqyb9Q==
 
-"@uniswap/sdk-core@^3.0.2":
+"@phuphamdeltalabs/sdkcore@^3.0.2":
   version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@uniswap/sdk-core/-/sdk-core-3.0.2.tgz#eb77002679bc22e842a596d785d3bc4c789bcf55"
+  resolved "https://registry.yarnpkg.com/@phuphamdeltalabs/sdkcore/-/sdk-core-3.0.2.tgz#eb77002679bc22e842a596d785d3bc4c789bcf55"
   integrity sha512-G879GHNMgpan8/+H+J6UfX/PYiQgCM5XF9JnyhIaqp5VkZVvIn1TvQm7etb6QBbuHjnfgAoSaZyt52K3jDGnMw==
   dependencies:
     "@ethersproject/address" "^5.0.2"
