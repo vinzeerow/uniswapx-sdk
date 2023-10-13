@@ -1,4 +1,4 @@
-import { Currency, Ether, Token, TradeType } from "@phuphamdeltalabs/sdkcore";
+import { Currency, Ether, Token, TradeType } from "@tpvinh/sdk-core";
 import { BigNumber, constants, ethers } from "ethers";
 
 import { DutchOrderInfo } from "../order";

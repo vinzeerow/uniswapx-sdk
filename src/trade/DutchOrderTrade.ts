@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Price, TradeType } from "@phuphamdeltalabs/sdkcore";
+import { Currency, CurrencyAmount, Price, TradeType } from "@tpvinh/sdk-core";
 
 import { DutchOrder, DutchOrderInfo } from "../order";
 

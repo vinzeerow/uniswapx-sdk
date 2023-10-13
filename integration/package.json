@@ -29,7 +29,7 @@
     "@ethersproject/bytes": "^5.7.0",
     "@typechain/ethers-v5": "^10.1.0",
     "@typechain/hardhat": "^6.1.2",
-    "@phuphamdeltalabs/sdkcore": "^3.0.2",
+    "@tpvinh/sdk-core": "^3.0.2",
     "ethers": "^5.7.0",
     "typechain": "^8.1.0"
   }
